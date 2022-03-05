@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Edición de audio y video',
     descripcionCurso:
       'En este componente formativo se verán los conceptos de Sonido, Foley, Masterización, Sincronización y Edición de video para una producción de animación en 3D, así como también las herramientas en blender para crear el cabezote de entrada.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
   menuPrincipal: {
