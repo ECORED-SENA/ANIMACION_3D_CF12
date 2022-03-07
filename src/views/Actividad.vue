@@ -17,9 +17,12 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Drag and Drop
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                span Realizar
+              a.boton.boton--b.mx-2(:href="obtenerLink('/actividades/Actividad_1_parte_1/actividad.html')" target="_blank")
+                span Parte 1
                 i.fas.fa-puzzle-piece
+              a.boton.boton--b.mx-2(:href="obtenerLink('/actividades/Actividad_1_parte_2/actividad.html')" target="_blank")
+                span Parte 2
+                i.fas.fa-puzzle-piece                
 
     .row.mt-5.pt-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
@@ -35,7 +38,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Verdadero o falso
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/Actividad_2/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece                
                 

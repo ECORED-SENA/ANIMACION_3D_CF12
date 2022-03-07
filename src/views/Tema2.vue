@@ -19,7 +19,7 @@
 
           figure.my-5.pb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/X-HAyBJi1MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
     Separador 
     #t_2_1.titulo-segundo.color-primario(data-aos="zoom-in-left")
@@ -57,7 +57,7 @@
               p.mt-5 En el siguiente video se realizará el diseño de formas que vamos a utilizar para el proceso de #[i Motion Graphics.]
               figure.mt-5
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/z85Urth3gj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
           .row.justify-content-center.align-items-center(numero="3" titulo="<i>Valores</i>:")
             .col-lg-12.pb-4
@@ -81,7 +81,7 @@
               p.mt-5 En el siguiente video podemos observar, como podemos realizar en Blender la inclusión de color para nuestros elementos previamente realizados.
               figure.mt-5
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                    
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/OGY4-c_d4Rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                    
 
           .row.justify-content-center.align-items-center(numero="5" titulo="<i>Textura</i>:")
             .col-lg-12.pb-4
@@ -118,21 +118,21 @@
                 p A continuación, veremos una serie de videos, para culminar con la realización de nuestro cabezote final. prepararemos el escenario, ubicando la cámara y creando guías de composición, Animaremos los gráficos previamente realizados en el video diseño de formas  y por último editaremos el cabezote final. A continuación, veremos un tutorial de cómo organizar nuestro espacio de trabajo para diseñar nuestro cabezote final. 
                 figure.mt-5
                   .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/bZCKDbHlPSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
             .row.justify-content-center.align-items-center
               .col-lg-10
                 p A continuación, observaras como animar los elementos dentro de Blender, para la realización del #[i Motion Graphics] que hace parte de nuestro cabezote final.
                 figure.mt-5
                   .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/twZSbaWenpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
             .row.justify-content-center.align-items-center
               .col-lg-10
                 p Por último, editaremos el cabezote realizado, uniéndolo con otros elementos, como un video en #[b Mp4], y el ajuste del sonido final.
                 figure.mt-5
                   .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/Ald-Yw3mXc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     Separador 
 
