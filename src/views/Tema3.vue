@@ -74,7 +74,7 @@
 
     figure.mt-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/MZynsr7Vxac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
 
     p(data-aos="fade-down").mt-5 En el siguiente tutorial podemos observar cómo es el proceso que se puede utilizar para crear la edición de una secuencia de imágenes en Blender. Se remite visualizar el siguiente video de YouTube.
 
@@ -134,7 +134,7 @@
     p.mt-5(data-aos="fade-down") A continuación, verán un tutorial en el cual se realiza la edición de un video, aplicando los pasos mencionados que son sincronización, secuencia, y titulación, así como también, las herramientas para hacerlos en el software BLENDER. también tendrán la opción de descargar un documento para utilizarlo como referencia y ayuda para recordar el uso de las herramientas.
     figure.mt-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ald-Yw3mXc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
@@ -176,7 +176,7 @@
 
     figure.mt-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/lywcqXoqpKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
 
 </template>

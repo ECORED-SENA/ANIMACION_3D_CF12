@@ -118,7 +118,7 @@
                 p A continuación, veremos una serie de videos, para culminar con la realización de nuestro cabezote final. prepararemos el escenario, ubicando la cámara y creando guías de composición, Animaremos los gráficos previamente realizados en el video diseño de formas  y por último editaremos el cabezote final. A continuación, veremos un tutorial de cómo organizar nuestro espacio de trabajo para diseñar nuestro cabezote final. 
                 figure.mt-5
                   .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/bZCKDbHlPSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/NTQqp1RpEKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
             .row.justify-content-center.align-items-center
               .col-lg-10
@@ -132,7 +132,7 @@
                 p Por último, editaremos el cabezote realizado, uniéndolo con otros elementos, como un video en #[b Mp4], y el ajuste del sonido final.
                 figure.mt-5
                   .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/Ald-Yw3mXc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/bZCKDbHlPSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     Separador 
 
