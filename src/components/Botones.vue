@@ -36,7 +36,7 @@
       .tarjeta.color-acento-contenido.p-4(v-else-if="selected === 3")   
         .h5 Amplitud:
         .hr-3.mb-2 
-        p Es la cantidad de energía (intensidad) que posee una onda sonora; entre más energía tenga, su volumen será más alto y viceversa, a menor cantidad de energía o intensidad se escuchara más bajo, indicando si se trata de un sonido fuerte o débil.
+        p Es la cantidad de energía (intensidad) que posee una onda sonora; entre más energía tenga, su volumen será más alto y viceversa, a menor cantidad de energía o intensidad se escuchará más bajo, indicando si se trata de un sonido fuerte o débil.
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img5.svg', alt='')  
 
 </template>

@@ -12,7 +12,7 @@
       .row.justify-content-center.align-items-center.py-5
         .col-lg-10 
           .cajon-b.color-primario.p-3.pt-5         
-            p(data-aos="fade-down") En esta unidad vamos a comprender las nociones básicas de audio, en el que entendemos el sonido, como pieza fundamental del audiovisual, y algunas características de los sonidos. Además, crearemos un cabezote con la técnica de Motion Graphics, acompañado de un audio. Así mismo veremos como editar un audio y video directamente en Blender, y por último la realización de la corrección de color del producto final. Por lo anterior se invita a observar el siguiente video.
+            p(data-aos="fade-down") En esta unidad vamos a comprender las nociones básicas de audio, en el que entendemos el sonido, como pieza fundamental del audiovisual, y algunas características de los sonidos. Además, crearemos un cabezote con la técnica de <i>Motion Graphics</i>, acompañado de un audio. Así mismo veremos como editar un audio y video directamente en <i>Blender</i>, y por último la realización de la corrección de color del producto final. Por lo anterior se invita a observar el siguiente video.
           
           figure.my-5.pb-5(data-aos="fade-left")
             .video
