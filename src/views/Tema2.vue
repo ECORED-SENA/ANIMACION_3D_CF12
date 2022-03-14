@@ -61,7 +61,7 @@
 
           .row.justify-content-center.align-items-center(numero="3" titulo="<i>Valores</i>")
             .col-lg-12.pb-4
-              p Los valores son determinados por el tipo de luz, por ello podemos ver un valor oscuro y uno claro, creando entre ellos un nivel de iluminacion entre 0 donde es negro totalmente y 1 es un valos de iluminacion total.
+              p Los valores son determinados por el tipo de luz, por ello podemos ver un valor oscuro y uno claro, creando entre ellos un nivel de iluminacion entre 0 donde es negro totalmente y 1 es un valor de iluminacion total.
               .row.justify-content-center.align-items-center.mt-5
                 .col-lg-5     
                   .titulo-sexto.color-secundario

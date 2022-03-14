@@ -57,7 +57,7 @@
           .col-lg-8(data-aos="fade-left")
             .titulo-sexto.color-secundario
               h5 Figura 2.
-              span Toy Story en escena
+              span <i>Toy Story</i> en escena
         img(data-aos="zoom-in")(src='@/assets/curso/temas/img11.png',    alt='')
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -85,7 +85,7 @@
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/img12.jpg')})`}")
-                h3.text-center.p-flip_img.p-yellow Características Físicas             
+                h3.text-center.p-flip_img.p-yellow Características físicas             
               .tarjeta-flip__contenido.p-3
                 p Musicalizando el paso a paso de un personaje de animación como se hacía con Mickey Mouse o sonando una samba para acentuar gráficamente que los sucesos están ocurriendo en Brasil, o música barroca para acentuar los sucesos en una época temporal como el siglo XVI, así como también la recreación de eventos meteorológicos como lluvia, nieve brisa etc. 
 
@@ -111,7 +111,7 @@
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/img15.jpg')})`}")
-                h3.text-center.p-flip_img.text-white Ambientacion sonora               
+                h3.text-center.p-flip_img.text-white Ambientación sonora               
               .tarjeta-flip__contenido.p-3.text-white
                 p Es la que sugiere el tipo de atmósfera que se debe manejar para cada escenario, por ejemplo, en el escenario de Silent Hill, en la imagen a continuación lo que se escucharía en dicho ambiente serían sonidos de alarma, al cambiar el mundo pesadilla, transmitiendo un aire de intranquilidad.
 
@@ -119,9 +119,9 @@
           .tarjeta.tarjeta-flip.color-acento-contenido.border-flip(@mouseover="indicadorTarjetaFlip = false")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/img16.jpg')})`}")
-                h3.text-center.p-flip_img.text-white Efectos de audio espciales               
+                h3.text-center.p-flip_img.text-white Efectos de audio especiales               
               .tarjeta-flip__contenido.p-3
-                p brindan información importante al espectador ya sea a través del diálogo con otros personajes, o por la producción de algún sonido específico, por ejemplo, el sonido lejano de alguien pidiendo ayuda, los pesados pasos de un monstruo que se acerca, que, aun sin verlo, su sonido nos sugiere que se trata de algo de gran tamaño generandonos temor al imaginar con quien nos tendremos que enfrentar; es decir, mejoran la inmersión.                  
+                p Brindan información importante al espectador ya sea a través del diálogo con otros personajes, o por la producción de algún sonido específico, por ejemplo, el sonido lejano de alguien pidiendo ayuda, los pesados pasos de un monstruo que se acerca, que, aun sin verlo, su sonido nos sugiere que se trata de algo de gran tamaño generandonos temor al imaginar con quien nos tendremos que enfrentar; es decir, mejoran la inmersión.                  
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10

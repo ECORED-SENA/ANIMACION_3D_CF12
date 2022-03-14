@@ -242,7 +242,7 @@ export default {
     {
       texto: 'ESPN (2021) (Fantasy Football TV Commercial, Big + Wig. ',
       tipo: 'Video',
-      link: 'https://www.ispot.tv/ad/Oe43/espn-fantasy- football-big-wig',
+      link: 'https://www.ispot.tv/ad/Oe43/espn-fantasy-football-big-wig',
     },
   ],
   creditos: {
@@ -337,7 +337,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Melina Tatiana Quintero Rodríguez',
+        nombre: 'María Eugenia Mejía López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
