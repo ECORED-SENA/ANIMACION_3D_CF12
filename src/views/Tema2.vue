@@ -52,7 +52,7 @@
                 .col-lg-5     
                   .titulo-sexto.color-secundario
                     h5 Figura 7.
-                    span Línea                 
+                    span Forma                 
                   img.img-a.img-t(src='@/assets/curso/temas/img53.png', alt='')                 
               p.mt-5 En el siguiente video se realizará el diseño de formas que vamos a utilizar para el proceso de #[i Motion Graphics.]
               figure.mt-5
