@@ -1,0 +1,12 @@
+<svg id="Grupo_66847" data-name="Grupo 66847" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.989" height="45.804" viewBox="0 0 50.989 45.804">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_9080" data-name="Rectángulo 9080" width="50.989" height="45.804" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_66847-2" data-name="Grupo 66847" clip-path="url(#clip-path)">
+    <path id="Trazado_139287" data-name="Trazado 139287" d="M42.7,21.419H1.048a1.047,1.047,0,1,1,0-2.094H42.5a1.131,1.131,0,0,1,.2-.02,6.192,6.192,0,1,0-6.192-6.191,1.046,1.046,0,1,1-2.092,0,8.284,8.284,0,1,1,8.5,8.281,1.025,1.025,0,0,1-.216.023" transform="translate(0 2.418)" fill="#d44f4a"/>
+    <path id="Trazado_139288" data-name="Trazado 139288" d="M21.248,16.59H1.047a1.047,1.047,0,0,1,0-2.094h20a1.1,1.1,0,0,1,.2-.02,6.192,6.192,0,1,0-6.194-6.191,1.046,1.046,0,1,1-2.092,0,8.284,8.284,0,1,1,8.5,8.281,1.011,1.011,0,0,1-.215.023" transform="translate(0.001 0)" fill="#d44f4a"/>
+    <path id="Trazado_139289" data-name="Trazado 139289" d="M34.069,36.049a8.293,8.293,0,0,1-8.284-8.284,1.046,1.046,0,1,1,2.092,0,6.192,6.192,0,1,0,6.192-6.192H1.048a1.047,1.047,0,1,1,0-2.094H34.069a8.285,8.285,0,0,1,0,16.57" transform="translate(0 9.755)" fill="#d44f4a"/>
+  </g>
+</svg>
