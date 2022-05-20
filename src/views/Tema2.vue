@@ -15,7 +15,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/img48.svg')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0(data-aos="fade-down") A continuación, veremos cómo crear nuestros propios diseños de formas directamente en <i>Blender</i>, y estos cómo los podemos animar, integrándose con sonidos y videos, para la realización de un cabezote sencillo pero llamativo. A continuación, puedes ver el resultado final del producto audiovisual que realizaremos. En el siguiente video puedes observar el resultado final del Cabezote que se realizará como ejemplo. 
+              p.mb-0(data-aos="fade-down") A continuación, veremos cómo crear nuestros propios diseños de formas, directamente en #[i Blender], y estos cómo los podemos animar, integrándolo con sonidos y videos, para la realización de un cabezote sencillo pero llamativo. En el siguiente video, visualizaremos el resultado final del producto audiovisual del Cabezote que se realiza como ejemplo. 
 
           figure.my-5.pb-5
             .video
@@ -61,7 +61,7 @@
 
           .row.justify-content-center.align-items-center(numero="3" titulo="<i>Valores</i>")
             .col-lg-12.pb-4
-              p Los valores son determinados por el tipo de luz, por ello podemos ver un valor oscuro y uno claro, creando entre ellos un nivel de iluminación entre 0 donde es negro totalmente y 1 es un valor de iluminacion total.
+              p Los valores son determinados por el tipo de luz, por ello podemos ver un valor oscuro y uno claro, creando entre ellos un nivel de iluminación entre 0 donde es negro totalmente y 1 es un valor de iluminación total.
               .row.justify-content-center.align-items-center.mt-5
                 .col-lg-5     
                   .titulo-sexto.color-secundario
