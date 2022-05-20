@@ -18,7 +18,7 @@
       .tarjeta.color-primario.p-4(v-if="selected === 0")
         .h5 Duración y envolvente:
         .hr-1.mb-2
-        p Se refiere al tiempo que tarda en extinguirse completamente un sonido hasta llegar al silencio total, y sobre cómo éste crece y decrece con el tiempo.
+        p Se refiere al tiempo que tarda en extinguirse completamente un sonido hasta llegar al silencio total, y sobre cómo este crece y decrece con el tiempo.
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img9.jpg', alt='')            
 
       .tarjeta.color-secundario.p-4(v-else-if="selected === 1")

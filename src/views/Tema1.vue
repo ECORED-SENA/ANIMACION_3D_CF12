@@ -73,7 +73,7 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link-1.svg")
                   .anexo__texto
-                    p.text-a #[b.text-a Video]. Youtube fuente escena, Woody conoce a Buzz Lightyear <i>“Toy Story”</i>     
+                    p.text-a #[b.text-a Video]. YouTube fuente escena, Woody conoce a Buzz Lightyear <i>“Toy Story”</i>     
           .col-lg-3.p-0.m-0.bg-card-row-color.d-none.d-lg-block  
             img.p-0.mx-0(src='@/assets/curso/temas/img13.svg', alt='')  
 
@@ -121,7 +121,7 @@
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/img16.jpg')})`}")
                 h3.text-center.p-flip_img.text-white Efectos de audio especiales               
               .tarjeta-flip__contenido.p-3
-                p Brindan información importante al espectador ya sea a través del diálogo con otros personajes, o por la producción de algún sonido específico, por ejemplo, el sonido lejano de alguien pidiendo ayuda, los pesados pasos de un monstruo que se acerca, que, aun sin verlo, su sonido nos sugiere que se trata de algo de gran tamaño generandonos temor al imaginar con quien nos tendremos que enfrentar; es decir, mejoran la inmersión.                  
+                p Brindan información importante al espectador ya sea a través del diálogo con otros personajes, o por la producción de algún sonido específico, por ejemplo, el sonido lejano de alguien pidiendo ayuda, los pesados pasos de un monstruo que se acerca, que, aun sin verlo, su sonido nos sugiere que se trata de algo de gran tamaño generándonos temor al imaginar con quien nos tendremos que enfrentar; es decir, mejoran la inmersión.                  
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
@@ -158,7 +158,7 @@
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/img21.svg', alt='Texto que describa la imagen')
 
           h5.text-center(data-aos="fade-down") La iluminación y la paleta de colores
-          p.text-small(data-aos="fade-down") Influyen en la psique del jugador, por ejemplo, si se usan colores cálidos y una buena iluminación se pueden usar melodías y efectos de sonido más alegres y optimistas; mientras que si se usa una paleta de colores fríos y una iluminación más tenue se pueden usar sonidos y melodias relacionadas con el misticismo, la calma o la tensión, todo depende de lo que se quiera reflejar en escena.
+          p.text-small(data-aos="fade-down") Influyen en la psique del jugador, por ejemplo, si se usan colores cálidos y una buena iluminación se pueden usar melodías y efectos de sonido más alegres y optimistas; mientras que si se usa una paleta de colores fríos y una iluminación más tenue se pueden usar sonidos y melodías relacionadas con el misticismo, la calma o la tensión, todo depende de lo que se quiera reflejar en escena.
 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0.tarjeta--boton.color-secundario.text-white--hover.c-br-card.p-5(data-aos="fade-down")
           .row.justify-content-center.mb-3
@@ -167,7 +167,7 @@
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/img22.svg', alt='Texto que describa la imagen')
 
           h5.text-center(data-aos="fade-down") El clima y los efectos atmosféricos
-          p.text-small(data-aos="fade-down") Por ejemplo, si hay lluvia se usarán efectos que ésta golpeando el suelo y música de calma dependiendo del contexto en que se esté desarrollando la escena; la neblina se asocia con una melodía alusiva al misterio, o si hay rayos se usarán efectos de trueno y una musicalidad en concordancia con el tema del escenario.
+          p.text-small(data-aos="fade-down") Por ejemplo, si hay lluvia se usarán efectos que está golpeando el suelo y música de calma dependiendo del contexto en que se esté desarrollando la escena; la neblina se asocia con una melodía alusiva al misterio, o si hay rayos se usarán efectos de trueno y una musicalidad en concordancia con el tema del escenario.
 
       .col-sm-6.col-lg-4.mb-4.mb-sm-0.tarjeta--boton.color-secundario.text-white--hover.c-br-card.p-5(data-aos="fade-left")
           .row.justify-content-center.mb-3
@@ -193,16 +193,16 @@
               img(src='@/assets/curso/temas/img24.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul
               .p-4
-                h5 Dolby Digital
-                p.mb-0 Es el más utilizado a lo largo de la historia, gracias a que presenta mayor compatibilidad con un gran número de equipos, aunque se puede sufrir cierta pérdida en la calidad al comprimir el sonido. En los últimos años, ha venido trabajando con otros formatos Dolby Digital Plus, Dolby Digital TRUE HD, y Dolby ATOMS, que evitan comprimir el audio, conservando la fidelidad de los sonidos.     
+                h5 #[i Dolby Digital]
+                p.mb-0 Es el más utilizado a lo largo de la historia, gracias a que presenta mayor compatibilidad con un gran número de equipos, aunque se puede sufrir cierta pérdida en la calidad al comprimir el sonido. En los últimos años, ha venido trabajando con otros formatos #[i Dolby Digital Plus], #[i Dolby Digital TRUE HD], y #[i Dolby ATOMS], que evitan comprimir el audio, conservando la fidelidad de los sonidos.     
 
           .tarjeta-avatar-b.mb-5(data-aos="fade-right")
             .tarjeta-avatar-b__img
               img(src='@/assets/curso/temas/img25.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul
               .p-4
-                h5 Digital Sourround (DTS)
-                p.mb-0 Es la competencia directa de Dolby Digital, se caracteriza por conservar un sonido fuerte y nítido, aunque al comprimirse también se presenta una pérdida en la calidad, pero menor que la presentada por Dolby Digital, y al igual que esta ha venido trabajando en su formato DTS – HD sin compresión con el fin de conservar la alta definición del sonido.                 
+                h5 #[i Digital Sourround] (DTS)
+                p.mb-0 Es la competencia directa de #[i Dolby Digital], se caracteriza por conservar un sonido fuerte y nítido, aunque al comprimirse también se presenta una pérdida en la calidad, pero menor que la presentada por #[i Dolby Digital], y al igual que esta ha venido trabajando en su formato DTS – HD sin compresión con el fin de conservar la alta definición del sonido.                 
 
       .row.justify-content-center.align-items-center
         .col-lg-10
@@ -219,7 +219,7 @@
             .tarjeta.tarjeta--azul
               .p-4
                 h5 Foley
-                p.mb-0 Su origen se da en 1927 gracias a Jack Foley quien desarrolló esta técnica, para la película #[i ShowBoat] realizando para ella efectos de sonido en tiempo real. 
+                p.mb-0 Su origen se da en 1927 gracias a Jack Foley quien desarrolló esta técnica, para la película #[i Show Boat] realizando para ella efectos de sonido en tiempo real. 
 
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -235,15 +235,15 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link-1.svg")
                   .anexo__texto
-                    p.text-a #[b.text-a Video]. Youtube fuente #[i Show Boat-Film] 1936- #[i Universal]    
+                    p.text-a #[b.text-a Video]. YouTube fuente #[i Show Boat-Film] 1936- #[i Universal]    
           .col-lg-3.p-0.m-0.bg-card-row-color.d-none.d-lg-block  
             img.p-0.mx-0(src='@/assets/curso/temas/img13.svg', alt='') 
 
       .row.justify-content-start.align-items-center.row-grad-4.p-4(data-aos="slide-left")
         .col-lg-6
-          p(data-aos="fade-down") son aquellos sonidos, que vienen a representar los sonidos que generan las cosas cotidianas, como pasos, sonido de cosas cayéndose, ráfagas de viento, vidrios rompiéndose, el choque de elementos, el crujir de la leña en el fuego, el sonido generado por una puerta al cerrarse, entre otros, que sea dicho de paso, ayudan a la inmersión de cualquier proyecto audiovisual, dotándolo de realismo y cierto ritmo agregándole en la postproducción de la misma.
+          p(data-aos="fade-down") Son aquellos sonidos, que vienen a representar los sonidos que generan las cosas cotidianas, como pasos, sonido de cosas cayéndose, ráfagas de viento, vidrios rompiéndose, el choque de elementos, el crujir de la leña en el fuego, el sonido generado por una puerta al cerrarse, entre otros, que sea dicho de paso, ayudan a la inmersión de cualquier proyecto audiovisual, dotándolo de realismo y cierto ritmo agregándole en la postproducción de la misma.
 
-          p(data-aos="fade-down").mb-0 Los sonidos Foley pueden conseguirse desde muchas fuentes, diferentes tipos de material, pisos, líquidos etc. Realizándose pruebas para conseguir el sonido ideal para cada situación que lo amerite, hay algunos tips que se utilizan frecuentemente para generar sonidos específicos, entre los cuales podemos destacar:                     
+          p(data-aos="fade-down").mb-0 Los sonidos Foley pueden conseguirse desde muchas fuentes, diferentes tipos de material, pisos, líquidos, etc. Realizándose pruebas para conseguir el sonido ideal para cada situación que lo amerite, hay algunos tips que se utilizan frecuentemente para generar sonidos específicos, entre los cuales podemos destacar:                     
       .row.justify-content-end.align-items-center
         .col-lg-6.img-top-3.d-none.d-lg-block  
           img(data-aos="zoom-in")(src='@/assets/curso/temas/img28.png',    alt='') 
@@ -346,7 +346,7 @@
         .col-lg-7
           img(data-aos="zoom-in")(src='@/assets/curso/temas/img47.png',alt='')            
         .col-lg-5
-          p(data-aos="fade-down") La masterización en el audio es el último paso que se da, para poner en equilibrio todos los elementos que en ella se combinan, y a su vez, optimizarlos mediante la ecualización, compresión eliminación de ruido entre otros. De allí parten todas las copias de dicho audio finalizadas para diferentes formatos o plataformas, como también da consistencia y uniformidad entre las diferentes pistas que componen el producto, dotándolo de claridad y coherencia.
+          p(data-aos="fade-down") La masterización en el audio es el último paso que se da, para poner en equilibrio todos los elementos que en ella se combinan, y a su vez, optimizarlos mediante la ecualización, compresión, eliminación de ruido, entre otros. De allí parten todas las copias de dicho audio finalizadas para diferentes formatos o plataformas, como también da consistencia y uniformidad entre las diferentes pistas que componen el producto, dotándolo de claridad y coherencia.
 
           p(data-aos="fade-down") La premisa principal es que masterizar dota de características al audio, para que suene de la mejor manera posible en cualquier plataforma, así las pistas del audio, si no estuviesen masterizadas, incurrirán a no tener correlación, básicamente no parecería que pertenecieran a un mismo proyecto.
       

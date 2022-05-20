@@ -17,7 +17,7 @@
 
     .row.justify-content-end.align-items-center.row-grad-3.p-5(data-aos="slide-left")
       .col-lg-7
-        p(data-aos="fade-down") La sincronización es el proceso por el cual los elementos tales como clips de video, audio, textos o imágenes, se ubican en correcta relación temporal, en la línea de tiempo, es decir el ordenamiento y correlación entre los elementos para darles una corre cta ubicación y que la producción sea coherente.
+        p(data-aos="fade-down") La sincronización es el proceso por el cual los elementos tales como clips de video, audio, textos o imágenes, se ubican en correcta relación temporal, en la línea de tiempo, es decir el ordenamiento y correlación entre los elementos para darles una correcta ubicación y que la producción sea coherente.
 
         p(data-aos="fade-down").mb-0 Es importante tener en cuenta que cuando se graban las escenas, y los audios, estos concuerdan en su extensión de tiempo, es decir no podemos tener un video que dure 1 minuto y el audio se sobrepase a 1 minuto 10 segundos, lo que dificultará posteriormente generar una sincronización exacta.                      
     .row.justify-content-start.align-items-center
@@ -52,17 +52,17 @@
             p(data-aos="fade-down") A continuación, podemos observar cómo sincronizar audio y video gracias al control de velocidad directamente en Blender
             .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")       
               .col-lg-9        
-                a.mb-3.anexo.bg-a-1(href="https://www.youtube.com/watch?v=nEDvRoEw1PQ" target="_blank")
+                a.mb-3.anexo.bg-a-1(href="https://www.youtube.com/watch?v=xktYPWSbuOw" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link-1.svg")
                   .anexo__texto
-                    p.text-a #[b.text-a Video]. Youtube Edición básica de video con Blender -Sincronizar audio/video con el control de velocidad. 
+                    p.text-a #[b.text-a Video]. YouTube Edición básica de video con Blender -Sincronizar audio/video con el control de velocidad. 
           .col-lg-3.p-0.m-0.bg-card-row-color.d-none.d-lg-block  
             img.p-0.mx-0(src='@/assets/curso/temas/img13.svg', alt='')    
 
     Separador 
     #t_3_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
-      h2 3.2 Secuencia  
+      h2 3.2 Secuencias
     .row.justify-content-center.align-items-center
       .col-lg-6.my-2
         p(data-aos="fade-down").color-p.p-2.mb-0 Son un conjunto de clips o escenas que se posicionan en un orden para darle coherencia a lo que se quiere relatar, es de esta manera que las diferentes escenas se interconectan para desarrollar los momentos de manera clara de la historia. 
@@ -109,7 +109,7 @@
           p.mb-0(data-aos="fade-down") La titulación para los proyectos audiovisuales, ayuda mediante frases y textos a dar ideas claras y principales para posicionar al espectador y contextualizar sobre lo que sucede en pantalla, describiendo situaciones, lugares, objetos o momentos.
             br
             br
-            span En nuestra producción audiovisual es importante mencionar y reconocer los aportes de cada departamento que trabajo en el desarrollo de la pieza, por ende, también es muy importante que los créditos que se realizan en forma de texto sean exactos y claros, para ello con el texto se debe titular cada nombre y cargo correspondiente, incluso de manera creativa como lo hizo George Lucas en las películas de <i>“Star Wars”</i>, o “las hermanas Wachowski “con <i>Matrix</i>.
+            span En nuestra producción audiovisual es importante mencionar y reconocer los aportes de cada departamento que trabajo en el desarrollo de la pieza, por ende, también es muy importante que los créditos que se realizan en forma de texto sean exactos y claros, para ello con el texto se debe titular cada nombre y cargo correspondiente, incluso de manera creativa como lo hizo George Lucas en las películas de <i>“Star Wars”</i>, o las hermanas Wachowski con <i>“Matrix”</i>.
                     
     p.mt-5(data-aos="fade-down") En el siguiente video, veremos cómo crear, ajustar y animar textos que nos servirán de titulación para nuestros proyectos audiovisuales en el <i>software blender</i>.
 
@@ -131,7 +131,7 @@
           .col-lg-3.p-0.m-0.bg-card-row-color.d-none.d-lg-block  
             img.p-0.mx-0(src='@/assets/curso/temas/img13.svg', alt='')   
 
-    p.mt-5(data-aos="fade-down") A continuación, verán un tutorial en el cual se realiza la edición de un video, aplicando los pasos mencionados que son sincronización, secuencia, y titulación, así como también, las herramientas para hacerlos en el <i>software BLENDER</i>. también tendrán la opción de descargar un documento para utilizarlo como referencia y ayuda para recordar el uso de las herramientas.
+    p.mt-5(data-aos="fade-down") A continuación, verán un tutorial en el cual se realiza la edición de un video, aplicando los pasos mencionados que son sincronización, secuencia, y titulación, así como también, las herramientas para hacerlos en el <i>software BLENDER</i>. También tendrán la opción de descargar un documento para utilizarlo como referencia y ayuda para recordar el uso de las herramientas.
     figure.mt-5(data-aos="fade-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Ald-Yw3mXc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
@@ -167,12 +167,12 @@
 
           p(data-aos="fade-down") Con esta técnica se busca modificar el color digitalmente con el fin de realzar los colores de una pieza audiovisual y corregir problemas de exposición, parámetros de la luz, cambiar el aspecto o <i>look</i>, las siluetas, e integrar los niveles de diferentes planos, con el objetivo de obtener un <i>film</i> con una paleta de colores compacta y homogénea que ayude a transmitir las emociones correctas al espectador (tristeza, alegría, asombro, empatía, etc.) en el momento adecuado y de acuerdo a su propósito.
 
-          p(data-aos="fade-down") Las principales funciones de la colorización es ajustar los colores y la exposición de las tomas, esto debido a algunos errores que se puedan producir en las tomas. Otro elemento importante es entonar el personaje protagonista de la escena, o el objeto que destaque en la misma. Luego tenemos el ajuste de balance entre escena y escena, con la finalidad de que estas no tengan cambios bruscos entre sí. creando de esta forma un estilo unificado.
+          p(data-aos="fade-down") Las principales funciones de la colorización es ajustar los colores y la exposición de las tomas, esto debido a algunos errores que se puedan producir en las tomas. Otro elemento importante es entonar el personaje protagonista de la escena, o el objeto que destaque en la misma. Luego tenemos el ajuste de balance entre escena y escena, con la finalidad de que estas no tengan cambios bruscos entre sí, creando de esta forma un estilo unificado.
 
         .col-lg-6.my-2   
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img69.png', alt='')
 
-      p(data-aos="fade-down").mt-5 Vamos a trabajar con las propiedades de imagen para cambiar brillo, contraste, saturación, temperatura entre otros, para ello a continuación veremos el video explicativo de la aplicación de corrección de color mediante capas de ajuste en el editor de secuencias de <i>blender</i>.
+      p(data-aos="fade-down").mt-5 Vamos a trabajar con las propiedades de imagen para cambiar brillo, contraste, saturación, temperatura, entre otros, para ello a continuación veremos el video explicativo de la aplicación de corrección de color mediante capas de ajuste en el editor de secuencias de <i>blender</i>.
       p(data-aos="fade-down") Puede complementar sus conocimientos a través del siguiente video el cual se mostrará el proceso para la corrección de color en el <i>software blender</i>.  
 
     figure.mt-5(data-aos="fade-left")

@@ -61,7 +61,7 @@
 
           .row.justify-content-center.align-items-center(numero="3" titulo="<i>Valores</i>")
             .col-lg-12.pb-4
-              p Los valores son determinados por el tipo de luz, por ello podemos ver un valor oscuro y uno claro, creando entre ellos un nivel de iluminacion entre 0 donde es negro totalmente y 1 es un valor de iluminacion total.
+              p Los valores son determinados por el tipo de luz, por ello podemos ver un valor oscuro y uno claro, creando entre ellos un nivel de iluminación entre 0 donde es negro totalmente y 1 es un valor de iluminacion total.
               .row.justify-content-center.align-items-center.mt-5
                 .col-lg-5     
                   .titulo-sexto.color-secundario
@@ -78,7 +78,7 @@
                     h5 Figura 9.
                     span Color                 
                   img.img-a.img-t(src='@/assets/curso/temas/img55.png', alt='')
-              p.mt-5 En el siguiente video podemos observar, como podemos realizar en Blender la inclusión de color para nuestros elementos previamente realizados.
+              p.mt-5 En el siguiente video podemos observar, cómo podemos realizar en Blender la inclusión de color para nuestros elementos previamente realizados.
               figure.mt-5
                 .video
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/OGY4-c_d4Rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                    
